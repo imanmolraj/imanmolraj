@@ -19,36 +19,32 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmol-raj-77610925a" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/rajanmol_19" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.leetcode.com/imanmolraj" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
 </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C/C++-00599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
 </p>
 
-<p>
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imanmolraj&theme=default" />
-</p>
-
-<p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imanmolraj&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p>
-<img align="center" src="https://streak-stats.demolab.com?user=imanmolraj&theme=default&hide_border=true" />
+<h3 align="left">GitHub Overview:</h3>
+<p align="left">
+<img src="https://img.shields.io/github/followers/imanmolraj?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/imanmolraj?label=Stars&style=social"/>
+<img src="https://img.shields.io/github/last-commit/imanmolraj/imanmolraj"/>
 </p>
