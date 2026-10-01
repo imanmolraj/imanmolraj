@@ -11,8 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=imanmolraj&label=Profile%20views&color=0e75b6&style=flat" alt="imanmolraj" /> 
 </p>
 
-- 🌱 I’m currently strengthening my skills in **Data Analytics, Machine Learning, and Web Development**
-- 💬 Ask me about **Python, SQL, analytics projects, dashboards, and ML basics**
+- 🌱 I’m currently strengthening my skills in **Data Analytics, Machine Learning, and Web Development with Java**
+- 💬 Ask me about **Python, Java, Spring, Angular, SQL, analytics projects, dashboards, and ML basics**
 - 📫 How to reach me **imanmolraj66@gmail.com**
 - ⚡ Fun fact **I enjoy building practical solutions and learning by doing**
 
